@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="24" viewBox="0 0 22 24">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(-757 -4381) translate(0 1505) translate(0 2248) translate(0 580)">
+            <g fill="#fff">
+                <path d="M12.239 0l3.285 3.831-3.285 3.832-1.401-1.202L12.3 4.754h-2.146c-4.504 0-8.17 3.583-8.304 8.054l-.004.254c0 4.589 3.72 8.308 8.308 8.308 4.588 0 8.308-3.72 8.308-8.308h1.846c0 5.608-4.546 10.154-10.154 10.154S0 18.67 0 13.062C0 7.455 4.546 2.908 10.154 2.908H12.3l-1.462-1.706L12.238 0zm4.496 0L20.02 3.83l-3.285 3.832-1.402-1.202 2.254-2.63-2.254-2.63L16.735 0z" transform="translate(757 48)"/>
+                <text font-family="SofiaPro-SemiBold, Sofia Pro" font-size="10" font-weight="500" transform="translate(757 48)">
+                    <tspan x="5.998" y="16">10</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

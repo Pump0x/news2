@@ -1,0 +1,1 @@
+"use strict";(function(a){Drupal.behaviors.copyLinkToClipboard={attach:function attach(){a(".copy-link__btn").once().click(function(){var b=new ClipboardJS(".copy-link__btn");b.on("success",function(b){a(b.trigger).find(".copy-link__text").text("Copied"),b.clearSelection(),setTimeout(function(){a(b.trigger).find(".copy-link__text").text("Copy Link")},5e3)})})}}})(jQuery);
